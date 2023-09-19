@@ -1,2 +1,1 @@
-# .github
-We are a team dedicated to creating personalized visual identities.
+![Welcome to our GitHub profile](https://i.imgur.com/3tz4RhO.jpg)
